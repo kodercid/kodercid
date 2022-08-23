@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kodercid
-- 👀 I’m interested in developing webs n apps
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in datascience n a.i
+- 🌱 I’m currently learning python
 - 📫 How to reach me: skimaskitv@gmail.com
 
 <!---
